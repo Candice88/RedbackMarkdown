@@ -24,35 +24,16 @@ will enhance the security posture across all associated devices.
 
 ### Definitions
 
-  -----------------------------------------------------------------------
-  Term                     Definition
-  ------------------------ ----------------------------------------------
-  CoAP                     Constrained Application Protocol -- UDP based
-                           internet application protocol for constrained
-                           devices.
-
-  Data Lakehouse           Database architecture that combines data lake
-                           and data warehouse benefits, by introducing
-                           table metadata to files in object storage.
-
-  ECDSA Certificate        Elliptic Curve Digital Signature Algorithm
-
-  Encryption               The process of converting plain, readable text
-                           to unreadable ciphertext to protect data.
-
-  MQTT                     Message Queuing Telemetry Transport -- common
-                           protocol used with IoT devices.
-
-  Security Posture         An organisation's strength and resilience in
-                           relation to predicting, preventing, and
-                           responding to cyber threats.
-
-  TLS                      Transport Layer Security
-
-  UDP                      User Datagram Protocol
-  -----------------------------------------------------------------------
-
-  : Content table
+  |Term                    |Definition                                    |
+  |:-----------------------|:---------------------------------------------|
+  |CoAP                    | Constrained Application Protocol - UDP based internet application protocol for constrained devices.|          
+  |Data Lakehouse          | Database architecture that combines data lake and data warehouse benefits, by introducing table metadata to files in object storage.|
+  |ECDSA Certificate       | Elliptic Curve Digital Signature Algorithm   |
+  |Encryption              | The process of converting plain, readable text to unreadable ciphertext to protect data.    |
+  |MQTT                    | Message Queuing Telemetry Transport -- common protocol used with IoT devices.  |
+  |Security Posture        | An organisation's strength and resilience in relation to predicting, preventing, and responding to cyber threats.  |
+  |TLS                     | Transport Layer Security                     |
+  |UDP                     | User Datagram Protocol                       |
 
 ### TLS Solution
 
